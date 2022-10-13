@@ -4,8 +4,8 @@
 This project's goal was to help Dana build a webpage to display table data on UFO sightings. I was tasked with modifying the HTML code for the webpage to have multiple text entry boxes to filter the table by various parameters. I then had to write a script to handle the filter requests that a user might enter and update the table to reflect the filtered results.
 
 ### Resources
-    - Data: data.js, style.css
-    - Software: Visual Studio Code 1.70.1, Google Chrome 106.0.5249.103
+- Data: data.js, style.css
+- Software: Visual Studio Code 1.70.1, Google Chrome 106.0.5249.103
 
 ## Results
 
