@@ -9,16 +9,16 @@ This project's goal was to help Dana build a webpage to display table data on UF
 
 ## Results
 
-![Filter Search](pic.url)
+![Filter Search](https://github.com/tfish110/UFOs/blob/main/Resources/filter_search.jpg)
 
 Here, you can see the "Filter Search" section of the webpage where a user can enter text to filter the table by certain parameters. The filter options correspond to the headings of the first five columns of the table. In each box there is sample text which indicates the format that should be used for each search filter entry. For example, for the "State" search filter a user would enter "ma" rather than "Massachusetts" to search for UFO sightings in that state. Once the user types the desired search term, they can either press "Enter" or click outside the entry box and the table filter will execute.
 
-![First Five Table Rows](pic.url)
-![First Five Massachusetts Table Rows](pic.url)
+![First Five Table Rows](https://github.com/tfish110/UFOs/blob/main/Resources/table_first_5.jpg)
+![First Five Massachusetts Table Rows](https://github.com/tfish110/UFOs/blob/main/Resources/table_filtered_ma.jpg)
 
 The first table shown here is the first five rows of the entire table as they appear when first loading the webpage. Using the "ma" state search filter example, the second table shown here displays the filtered table once the search filter is executed. To undo the filter, simply delete the search parameters that were entered, and the full table will display again.
 
-![Multiple Filters Table](pic.url)
+![Multiple Filters Table](https://github.com/tfish110/UFOs/blob/main/Resources/table_filtered_date.jpg)
 
 Finally, users can also filter on multiple parameters simultaneously, as shown here with the "ma" state search filter combined with a "1/7/2010" date search filter.
 
